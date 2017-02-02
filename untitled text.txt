@@ -1,0 +1,3 @@
+no proof by induction
+
+sum (n to 1)(x)

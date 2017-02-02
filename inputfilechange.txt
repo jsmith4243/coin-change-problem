@@ -1,0 +1,20 @@
+
+Change Slow Algorithm: 
+Array of denominations used is: 
+2 0 0 0 
+Min number of coins: 2
+
+Change Slow Algorithm: 
+Array of denominations used is: 
+2 0 0 0 
+Min number of coins: 2
+
+Change Slow Algorithm: 
+Array of denominations used is: 
+2 0 0 0 
+Min number of coins: 2
+
+Change Slow Algorithm: 
+Array of denominations used is: 
+2 0 0 0 
+Min number of coins: 2
